@@ -5,9 +5,9 @@ Outlier detection by Local Outlier Factor
 
 ## Usage
 java -jar Lof.jar  
-First enter the Number of neighborhood K  
-Second enter the file name of input data  
-Last enter the file name to output the result
+First enter the number of neighborhood K.  
+Second enter the file name of input data.  
+Last enter the file name to output the result.
 
 Example  
 パラメータkを入力してください:3  
