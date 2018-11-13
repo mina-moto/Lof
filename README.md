@@ -3,7 +3,7 @@
 ## Description
 Outlier detection by Local Outlier Factor
 
-#Usage
+## Usage
 java -jar Lof.jar  
 First enter the Number of neighborhood K  
 Second enter the file name of input data  
