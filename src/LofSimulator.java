@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.Scanner;
 /**
  * LOFのアルゴリズムに沿ってデータの局所外れ値係数を求める．距離にはL1ノルムを用いる
- * 
+ *
  * @author k.minamoto
  */
 public class LofSimulator {
@@ -139,7 +139,7 @@ public class LofSimulator {
 		ret /= lrd(data);
 		ret /= nk.size();
 		return ret;
-	} 
+	}
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		LofSimulator simu = new LofSimulator();
